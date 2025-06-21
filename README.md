@@ -29,11 +29,8 @@
 
 <p align="center">
   <!-- Stats Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&title_color=726255&text_color=393939&icon_color=726255&bg_color=252422,e9ecef,252422&hide_border=true"
-    alt="Estadísticas de GitHub" 
-    style="margin-bottom: 10px;" 
-  />
+    <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="stats" />
+
   <br />
 
   <!-- Top Languages Card -->
