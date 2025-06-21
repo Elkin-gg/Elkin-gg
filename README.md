@@ -1,5 +1,8 @@
 <h1 align="center">EcodeG's profile</h1>
 <h3 align="center">Desarrollador Backend | Python | FastAPI | Más...</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
 <p align="center"><i>Entusiasta por la programación</i></p>
 
 ---
@@ -19,8 +22,11 @@
 </p>
 
 ---
-
-### Tecnologías principales
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,10 +45,10 @@
 
 <p align="center">
   <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Elkin-gg&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elkin-gg&show_icons=true&theme=dark&locale=es" alt="GitHub Stats" />
   <br /><br />
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkin-gg&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkin-gg&show_icons=true&theme=dark&locale=es" alt="Top Languages" />
   <br /><br />
   <!-- Streak Stats Card (corregido) -->
   <a href="https://git.io/streak-stats">
