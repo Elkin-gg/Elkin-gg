@@ -28,10 +28,8 @@
 ---
 
 <p align="center">
-  <!-- Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="stats" />
-
-  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanperez&show_icons=true&theme=radical" alt="stats" />
+</p>
 
   <!-- Top Languages Card -->
   <img 
