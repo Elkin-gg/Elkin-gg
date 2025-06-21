@@ -1,7 +1,7 @@
 <h1 align="center">EcodeG's profile</h1>
 <h3 align="center">Desarrollador Backend</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%70Developer;%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 <p align="center"><i>Entusiasta por la programación</i></p>
 
@@ -19,3 +19,13 @@
   </a>
 </p>
 
+<!--Las estadisticas del perfil-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elkin-gg&show_icons=true&theme=dark&locale=es" alt="GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkin-gg&show_icons=true&theme=dark&locale=es" alt="Top Languages" />
+  <br /><br />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elkin-gg&theme=dark" alt="GitHub Data" />
+  </a>
+</p>
