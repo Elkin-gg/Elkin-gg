@@ -1,5 +1,5 @@
 <h1 align="center">EcodeG's profile</h1>
-<h3 align="center">Desarrollador Backend</h3>
+<h3 align="center">Desarrollador Backend | Python | FastAPI | Más...</h3>
 
 ---
 
@@ -8,6 +8,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rasa/rasa-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40"/>
@@ -21,18 +22,18 @@
 
 ### Contacto
 
-- Email: username@email.com
-- [LinkedIn](https://linkedin.com/in/username)
+- Email: Elkin-gg@email.com
+- [LinkedIn](https://linkedin.com/in/Elkin-gg)
 
 ---
 
 <p align="center">
   <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elkin-gg&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br /><br />
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkin-gg&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br /><br />
   <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elkin-gg&theme=tokyonight" alt="GitHub Streak" />
 </p>
