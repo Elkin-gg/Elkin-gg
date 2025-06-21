@@ -1,5 +1,5 @@
 <h1 align="center">EcodeG's profile</h1>
-<h3 align="center">Desarrollador Backend | Python | FastAPI | Más...</h3>
+<h3 align="center">Desarrollador Backend</h3>
 
 ---
 
@@ -8,7 +8,6 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rasa/rasa-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40"/>
@@ -28,20 +27,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanperez&show_icons=true&theme=radical" alt="stats" />
-</p>
-
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br /><br />
   <!-- Top Languages Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&title_color=726255&text_color=393939&bg_color=252422,e9ecef,252422&hide_border=true"
-    alt="Lenguajes más usados" 
-    style="margin-bottom: 10px;"
-  />
-  <br />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br /><br />
   <!-- Streak Stats Card -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=username&background=252422&currStreakLabel=726255&sideLabels=726255&stroke=726255&ring=726255&fire=726255&currStreakNum=726255&dates=393939&hide_border=true"
-    alt="Racha de contribuciones" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=github-dark" alt="GitHub Streak" />
 </p>
